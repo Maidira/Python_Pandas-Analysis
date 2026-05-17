@@ -24,7 +24,7 @@ This dashboard tracks operational and business performance for:
 |--------|-------|
 | Total Orders | 950K |
 | Total Revenue | 540M |
-| Average Rating | 3.04 ⭐ |
+| Average Rating | 3.04 |
 | Average Delivery Time | 16.51 mins |
 
 ---
